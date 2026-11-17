@@ -77,5 +77,10 @@ snapshot of 8 November 2026. Only the eight tables used are kept in `data/`.
 - The model doesn't know that exactly three drivers finish on the podium. A ranking model,
   or normalising probabilities per race, is the obvious next step.
 
+## How this was built
+
+I designed the analysis and checked the results. I used Claude Code as
+a coding assistant.
+
 ---
 Mantas Valantinavičius · [github.com/mantas123456](https://github.com/mantas123456)
